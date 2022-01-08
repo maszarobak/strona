@@ -1,4 +1,4 @@
-#Strona internetowa z wykorzystaniem react-bootstrap 5.1.3
+# Strona internetowa z wykorzystaniem react-bootstrap 5.1.3
 ![image](https://user-images.githubusercontent.com/61240151/148648152-f22bcd4d-3b6c-48ec-b273-f8220b14d705.png)
 ![image](https://user-images.githubusercontent.com/61240151/148648163-c4ec766a-08b3-42e8-93b7-67c23d38334b.png)
 ![image](https://user-images.githubusercontent.com/61240151/148648169-20392e3c-d9ff-403a-952c-eba3f9002f29.png)
